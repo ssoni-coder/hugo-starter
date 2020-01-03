@@ -1,0 +1,2 @@
+# hugo-starter
+Learning Hugo
